@@ -1,0 +1,22 @@
+{
+	"name": "simulacion-seir",
+	"version": "1.0.0",
+	"description": "You have downloaded the complete p5.js library ZIP file, yay!",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/equispecari/simulacion.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/equispecari/simulacion/issues"
+	},
+	"homepage": "https://github.com/equispecari/simulacion#readme",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
